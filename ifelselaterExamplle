@@ -1,0 +1,15 @@
+public class student{
+    
+    public static void main(String[] args) { 
+
+    String job = "salary is 3000$";  
+    if(job == "salary is 3000$") {  
+    System.out.println("Middle income");  
+    }else if (job == "Clerk") {  
+    System.out.println("Low income");  
+    }else if(job == "Solopreneur") {  
+    System.out.println("Variable income");  
+    }else {  
+
+    System.out.println("Your salary is not awesome");  
+    }
