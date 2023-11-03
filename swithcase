@@ -1,0 +1,15 @@
+public class letter{
+    public static void main (String arg[]){
+
+swith(letter){ 
+    case A:system.out.println("A");
+    break;
+    case B :system.out.println("B");
+    break;
+    case C:system.out.print("C");
+    break;
+    default:System.out.println("not in A,B,C");
+
+}
+}
+}
